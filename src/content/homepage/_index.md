@@ -2,12 +2,12 @@
 # Banner
 banner:
   title: "Business AI"
-  content: "Welcome to 3we.org, the premier destination for Business AI demonstrations. Our platform is meticulously designed to showcase cutting-edge artificial intelligence solutions tailored for the business world."
+  content: "Welcome to businessai.net, the premier destination for Business AI demonstrations. Our platform is meticulously designed to showcase cutting-edge artificial intelligence solutions tailored for the business world."
   image: "/images/banner.png"
   button:
     enable: true
     label: "Get Started For Free"
-    link: "https://3we.org/about"
+    link: "https://businessai.net/about"
 
 # Features
 features:
@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://3we.org/elements"
+      link: "https://businessai.net/elements"
 
   - title: "The Top Reasons to Choose Business AI for Your Partner"
     image: "/images/service-3.png"
