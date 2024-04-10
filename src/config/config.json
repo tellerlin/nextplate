@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Nextplate",
-    "base_url": "https://nextplate.netlify.app",
+    "base_url": "https://3we.org",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
