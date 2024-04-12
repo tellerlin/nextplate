@@ -1,6 +1,6 @@
 ---
-title: John Doe
-email: johndoe@email.com
+title: Teller Lin
+email: admin@businessesai.net
 image: "/images/avatar.png"
 description: this is meta description
 social:
@@ -17,4 +17,5 @@ social:
     link: https://linkedin.com
 ---
 
-lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.
+Welcome to the world of Business Intelligence of the future! Our AI solutions are specifically designed to enhance operational efficiency, boost customer interactions, and facilitate data-driven decisions. With our customized AI tools, you can easily navigate through the digital transformation of your business and maintain a competitive edge. Whether you're looking to optimize existing processes or explore new business opportunities, our intelligent platform offers robust support. Join us today and embark on a journey of intelligent business innovation.
+

@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Get Started For Free"
-    link: "https://businessai.net/about"
+    link: "https://businessesai.net/about"
 
 # Features
 features:
@@ -36,7 +36,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://businessai.net/elements"
+      link: "https://businessesai.net/elements"
 
   - title: "The Top Reasons to Choose Business AI for Your Partner"
     image: "/images/service-3.png"
