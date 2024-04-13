@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "Business AI"
-  content: "Welcome to businessai.net, the premier destination for Business AI demonstrations. Our platform is meticulously designed to showcase cutting-edge artificial intelligence solutions tailored for the business world."
+  content: "Welcome to businessesai.net, the premier destination for Business AI demonstrations. Our platform is meticulously designed to showcase cutting-edge artificial intelligence solutions tailored for the business world."
   image: "/images/banner.png"
   button:
     enable: true
