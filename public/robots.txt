@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://3we.org
+Host: https://nextplate.netlify.app/
 
 # Sitemaps
-Sitemap: https://3we.org/sitemap.xml
+Sitemap: https://nextplate.netlify.app/sitemap.xml
