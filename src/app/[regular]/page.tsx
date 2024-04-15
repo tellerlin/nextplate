@@ -3,6 +3,7 @@ import { getSinglePage } from "@/lib/contentParser";
 import PageHeader from "@/partials/PageHeader";
 import SeoMeta from "@/partials/SeoMeta";
 import { RegularPage } from "@/types";
+import '../../styles/zstyle.scss';
 
 // remove dynamicParams
 export const dynamicParams = false;
