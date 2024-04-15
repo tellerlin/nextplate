@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Nextplate",
-    "base_url": "https://businessai.net",
+    "title": "Business AI",
+    "base_url": "https://businessesai.net",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
