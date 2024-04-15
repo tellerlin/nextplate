@@ -9,6 +9,10 @@
       "url": "/about"
     },
     {
+      "name": "Chat",
+      "url": "/chat"
+    },
+    {
       "name": "Elements",
       "url": "/elements"
     },

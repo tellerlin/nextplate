@@ -6,5 +6,5 @@ description: "Embrace the cutting-edge of business efficiency with our AI soluti
 button:
   enable: true
   label: "Get Started Now"
-  link: "https://businessesai.net/elements"
+  link: "https://businessesai.net/chat"
 ---

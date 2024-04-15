@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Get Started For Free"
-    link: "https://businessesai.net/about"
+    link: "https://businessesai.net/chat"
 
 # Features
 features:
@@ -35,8 +35,8 @@ features:
       - "Improve customer engagement through personalized AI insights."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://businessesai.net/elements"
+      label: "Find Out More"
+      link: "https://businessesai.net/blog/post-1"
 
   - title: "The Top Reasons to Choose Business AI for Your Partner"
     image: "/images/service-3.png"
