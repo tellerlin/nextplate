@@ -9,7 +9,7 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "27",
-    "logo_text": "Nextplate"
+    "logo_text": "Business AI"
   },
 
   "settings": {
@@ -24,18 +24,18 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by [Zeon Studio](https://zeon.studio)"
+    "copyright": "Designed And Developed by [Business AI](https://businessesai.net)"
   },
 
   "navigation_button": {
     "enable": true,
     "label": "Get Started",
-    "link": "https://github.com/zeon-studio/nextplate"
+    "link": "https://businessesai.net/elements"
   },
 
   "disqus": {
     "enable": true,
-    "shortname": "themefisher-template",
+    "shortname": "Business AI",
     "settings": {}
   },
 

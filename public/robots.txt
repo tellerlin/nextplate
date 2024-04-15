@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://nextplate.netlify.app/
+Host: https://businessesai.net/
 
 # Sitemaps
-Sitemap: https://nextplate.netlify.app/sitemap.xml
+Sitemap: https://businessesai.net/sitemap.xml

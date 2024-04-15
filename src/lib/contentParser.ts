@@ -42,13 +42,13 @@ export const getSinglePage = (folder: string) => {
   }
 
   const filesPath = fs.readdirSync(folderPath);
-  const sanitizeFiles = filesPath.filter((file) => file.endsWith(".md"));
+  const sanitizeFiles = filesPath.filter((file) => file.endsWith(".md") || file.endsWith(".mdx"));
   const filterSingleFiles = sanitizeFiles.filter((file) =>
     file.match(/^(?!_)/),
   );
 
   const singlePages = filterSingleFiles.map((filename) => {
-    const slug = filename.replace(".md", "");
+    const slug = filename.replace(/\.mdx?$/, "");
     const filePath = path.join(folderPath, filename);
     const pageData = readFile(filePath);
     const { content, data: frontmatter } = matter(pageData);
