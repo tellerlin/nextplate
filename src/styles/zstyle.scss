@@ -1,8 +1,15 @@
 iframe {
   width: 95vw; /* 全屏宽度的95% */
   left: 2.5vw; /* 水平居中对齐 */
-  height: 85vh; /* 屏幕高度的85% */
+  height: 80vh; /* 默认为手机屏幕高度的80% */
   top: 0; /* 顶部边距为0 */
   border: none; /* 无边框 */
   position: absolute; /* 绝对定位 */
+}
+
+/* 媒体查询，对屏幕宽度大于600px的设备应用 */
+@media (min-width: 600px) {
+  iframe {
+      height: 95vh; /* 电脑屏幕高度的95% */
+  }
 }
