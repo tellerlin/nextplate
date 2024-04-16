@@ -1,8 +1,8 @@
 iframe {
-  width: 95vw;      /* 全屏宽度的95% */
-  border: none;     /* 无边框 */
+  width: 95vw; /* 全屏宽度的95% */
+  left: 2.5vw; /* 水平居中对齐 */
+  height: 88vh; /* 屏幕高度的88% */
+  top: 0; /* 顶部边距为0 */
+  border: none; /* 无边框 */
   position: absolute; /* 绝对定位 */
-  top: 0;           /* 顶部边距为0 */
-  left: 2.5vw;      /* 水平居中对齐 */
-  bottom: 5vh;    /* 底部边距为5vh */ 
 }
