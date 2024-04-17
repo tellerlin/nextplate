@@ -1,12 +1,12 @@
 ---
 title: "What is business AI?"
 meta_title: ""
-description: "this is meta description"
+description: "What is business AI?"
 date: 2022-04-04T05:00:00Z
-image: "/images/image-placeholder.png"
-categories: ["Application", "Data"]
+image: "/images/What-is-business-AI.jpg"
+categories: ["Business AI"]
 author: "Teller Lin"
-tags: ["nextjs", "tailwind"]
+tags: ["general"]
 draft: false
 ---
 
